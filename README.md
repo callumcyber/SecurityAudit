@@ -47,7 +47,7 @@ improve Botium Toys' security posture.
 | | |
 |---|---|
 | **Risk description** | Inadequate asset management, missing controls, and gaps in compliance with U.S. and international regulations |
-| **NIST CSF function** | Identify — dedicate resources to identify and classify assets, and determine the business-continuity impact of losing them |
+| **Control best practices (NIST CSF function)** | Identify — the organisation will need to dedicate resources to identify and classify assets, and determine the business-continuity impact of losing them |
 | **Risk score** | **8 / 10** (high) |
 | **Impact of asset loss** | Medium — the IT department doesn't yet know which assets are most at risk |
 | **Risk of fines / compliance exposure** | High — key controls are missing and several compliance best practices aren't met |
@@ -121,7 +121,7 @@ priorities to Botium Toys:
   cloud-based backup solutions, to protect data availability and operational
   resilience.
 - **Deploy an Intrusion Detection System (IDS)** to improve threat detection and
-  incident response This also supports regulatory compliance, such as the GDPR
+  incident response. This also supports regulatory compliance, such as the GDPR
 requirement to notify affected parties of a data breach within 72 hours.
 - **Formalise legacy system maintenance** with a regular monitoring/maintenance
   schedule and clearly defined response processes, and evaluate migrating off
